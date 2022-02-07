@@ -67,15 +67,7 @@ function getGuideSidebar (groupA, groupB) {
       title: groupA,
       collapsable: true,
       children: [
-        '',
-        'getting-started',
-        'options',
-        'categories',
-        'services',
-        'cookies',
-        'scripts',
-        'consents',
-        'reports'
+        ''
       ]
     }
   ]
